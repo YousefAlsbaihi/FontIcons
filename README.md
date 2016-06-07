@@ -35,9 +35,7 @@ To select your own icon you have to go to https://design.google.com/icons/
 press on the icon you want to use 
 and take the code which say's for IE it should look like this 
 
-
-
-<i class="material-icons">&#xE84E;</i>
+<img src="https://github.com/YousefAlsbaihi/FontIcons/blob/master/Material%20icons%20%20%20Google%20Design.png?raw=true">
 
 all we need is the &#xE84E; use it in the text of the YousefTextView
 
