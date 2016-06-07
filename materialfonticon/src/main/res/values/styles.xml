@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Font-->
+    <style name="iconfont" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">14pt</item>
+        <item name="fontFamily">materialFont</item>
+    </style>
+</resources>
