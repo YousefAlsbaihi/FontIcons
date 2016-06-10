@@ -37,10 +37,15 @@ and take the code which say's for IE it should look like this
 
 <img src="https://github.com/YousefAlsbaihi/FontIcons/blob/master/Material%20icons%20%20%20Google%20Design.png?raw=true">
 
-all we need is the &#xE84E; use it in the text of the YousefTextView
+all we need is the &#xE84E ; use it in the text of the YousefTextView
 
 <yousefalsbaihi.materialfonticon.YousefTextView
         ...
         android:text="The Code Goes Here"
         ...
         />
+
+#ToDo
+1. Add all icons string in string.xml
+2. Add More Fonts
+3. Make Fonts fit in all size's all screens just like images
